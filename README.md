@@ -33,7 +33,7 @@
 - PHP 5 or higher
 - MySQL
 - Composer (To install Laravel and Other Dependencies)
-- Pusher Account (*Optional*) for realtime notifications.
+- Pusher Account (*NotImplemented*) for realtime notifications.
 
 ### Note
 ---
