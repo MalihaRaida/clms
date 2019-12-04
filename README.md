@@ -1,4 +1,4 @@
-## Faculty Scheduling Systen
+## Course load Management Systems
 ---
 
 ### Features
